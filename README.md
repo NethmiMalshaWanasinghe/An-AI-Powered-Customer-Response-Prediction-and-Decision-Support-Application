@@ -34,15 +34,19 @@ Provides a high-level view of the dataset and campaign performance, including:
 - Model validation accuracy
 - Response distribution
 - Campaign performance visualisations
+<img width="1905" height="952" alt="image" src="https://github.com/user-attachments/assets/ca8fe61f-fc0b-4c7e-bfbe-20a350d099a4" />
 
 ### 👥 Customer Segments
 Allows users to explore how customer characteristics relate to campaign outcomes.
+<img width="1916" height="967" alt="image" src="https://github.com/user-attachments/assets/71f71eea-2d16-4bfe-b577-e09e961609c3" />
 
 ### 📈 Campaign Trends
 Visualises campaign-related patterns and response behaviour to support marketing analysis.
+<img width="1862" height="942" alt="image" src="https://github.com/user-attachments/assets/07ad9a76-0d24-4aa6-b462-723ebc70f089" />
 
 ### 🎓 Customer Insights
 Provides data-driven insights from the available customer and campaign information.
+<img width="1887" height="951" alt="image" src="https://github.com/user-attachments/assets/f6c44c56-7999-4c57-bf6f-40351fb65e5c" />
 
 ### 🎯 Customer Conversion Assessment
 Users can enter customer and campaign attributes such as:
@@ -73,6 +77,7 @@ The application then generates:
 - **Suggested Action**
 - **Recommended Next Step**
 - A visual representation of the prediction result
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/f7cbd5c0-6822-48d6-9dde-f8e1bfc3bf17" />
 
 ---
 
