@@ -127,6 +127,7 @@ This layer helps transform a machine learning prediction into information that c
 ## 📂 Dataset
 
 This project uses the **Bank Marketing** dataset from the UCI Machine Learning Repository.
+<img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/81d820e8-d837-4dc2-8e1d-79a6db66aab8" />
 
 The dataset is related to direct marketing campaigns of a Portuguese banking institution. The classification objective is to predict whether a client will subscribe to a term deposit.
 
@@ -241,12 +242,14 @@ http://localhost:8501
 ```bash
 docker build -t customer-conversion-intelligence .
 ```
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4bb09f1d-9e7c-450c-83e2-0620093d0a5b" />
 
 ### Run the container
 
 ```bash
 docker run -p 8501:8501 customer-conversion-intelligence
 ```
+<img width="1600" height="320" alt="image" src="https://github.com/user-attachments/assets/7f382dcc-e765-447d-b61a-da73b6323633" />
 
 Then open:
 
@@ -269,12 +272,15 @@ docker-compose up --build
 The application has been deployed using Render.
 
 ### Live Application
+<img width="1911" height="960" alt="image" src="https://github.com/user-attachments/assets/8eeac940-d2d9-46f3-8ea7-2296dcdd55d2" />
+
 
 https://customer-conversion-ai.onrender.com
 
 > The deployed service may take some time to respond after a period of inactivity because it is hosted on a free-tier service.
 
 ### Docker Image
+<img width="1890" height="967" alt="image" src="https://github.com/user-attachments/assets/89bdfb7d-e29e-4a5d-8171-45fd60b3b58b" />
 
 https://hub.docker.com/r/wanasinghe/customer-conversion-intelligence
 
@@ -312,6 +318,7 @@ Decision-Support Recommendation
 ## 📊 Example Output
 
 For each customer assessment, the application provides an estimated probability of a positive response.
+<img width="1857" height="967" alt="image" src="https://github.com/user-attachments/assets/81ff060c-f11e-4835-95f0-095ef402094e" />
 
 Example result:
 
